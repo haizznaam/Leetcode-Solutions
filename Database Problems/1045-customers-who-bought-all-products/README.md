@@ -1,6 +1,6 @@
-1045. Customers Who Bought All Products
-
 # 1045. [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/)
+
+## Medium
 
 ## [Link to my solution](https://leetcode.com/problems/customers-who-bought-all-products/solutions/4613547/customer-who-bought-all-product-an-efficient-solution-using-group-by-beat-96-users/)
 
