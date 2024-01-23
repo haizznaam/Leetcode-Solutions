@@ -29,17 +29,33 @@ The result format is in the following example.
 **Input:**
 
 Employee table:
+<<<<<<< HEAD
+=======
+
+>>>>>>> 06b1b0c1c9e3cab2be9e94377569041bd5299f53
 | id | name  | salary | managerId |
 | -- | ----- | ------ | --------- |
 | 1  | Joe   | 70000  | 3         |
 | 2  | Henry | 80000  | 4         |
 | 3  | Sam   | 60000  | null      |
 | 4  | Max   | 90000  | null      |
+<<<<<<< HEAD
 
 
 **Output:**
 | Employee |
 | -------- |
 | Joe      |
+=======
+
+
+
+**Output:**
+
+| Employee |
+| -------- |
+| Joe      |
+
+>>>>>>> 06b1b0c1c9e3cab2be9e94377569041bd5299f53
 
 Explanation: Joe is the only employee who earns more than his manager.
