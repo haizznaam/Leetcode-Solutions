@@ -27,11 +27,13 @@ This table may contain duplicate rows. `customer_id` is not NULL, and `product_k
 
 `product_key` is the primary key (column with unique values) for this table.
 
+
 ## Example
 
 ### Input
 
 **Customer Table:**
+
 | customer_id | product_key |
 |-------------|-------------|
 | 1           | 5           |
@@ -41,6 +43,7 @@ This table may contain duplicate rows. `customer_id` is not NULL, and `product_k
 | 1           | 6           |
 
 **Product Table:**
+
 | product_key |
 |-------------|
 | 5           |
