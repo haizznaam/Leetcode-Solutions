@@ -3,6 +3,7 @@
 ## Easy
 
 <hr> <div>
+
 ## Problem Description
 
 You are given a table named `World` with the following schema:
