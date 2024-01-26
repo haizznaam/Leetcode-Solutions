@@ -49,3 +49,8 @@ So the result is customer_number 3.
 #### Solution
 
 ```sql
+SELECT customer_number
+FROM Orders
+GROUP BY customer_number
+ORDER BY COUNT(*) DESC
+LIMIT 1;
