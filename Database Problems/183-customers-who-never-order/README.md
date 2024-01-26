@@ -59,3 +59,6 @@ Orders table:
 | Henry     |
 | Max       |
 
+#### Solution
+
+```sql
