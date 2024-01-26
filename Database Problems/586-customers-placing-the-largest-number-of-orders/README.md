@@ -45,3 +45,5 @@ The customer with number 3 has two orders, which is greater than either customer
 So the result is customer_number 3.
 
 **Follow up:** If more than one customer has the largest number of orders, you can find all the `customer_number` in this case.
+
+#### Solution
