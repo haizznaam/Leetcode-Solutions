@@ -59,5 +59,3 @@ Orders table:
 | Henry     |
 | Max       |
 
-
-### Solution
