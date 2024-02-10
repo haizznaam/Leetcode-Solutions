@@ -3,7 +3,7 @@
 **Topics:** Companies
 
 **Hint:** SQL Schema, Pandas Schema
-----
+<hr><div>
 
 ## SQL Schema
 
