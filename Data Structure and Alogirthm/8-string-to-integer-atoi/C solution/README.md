@@ -25,15 +25,25 @@ The algorithm for `myAtoi(string s)` is as follows:
 
 ## Example 1:
 
-Input: s = "42"
-Output: 42
-Explanation: The underlined characters are what is read in, the caret is the current reader position.
-Step 1: "42" (no characters read because there is no leading whitespace)
-^
-Step 2: "42" (no characters read because there is neither a '-' nor '+')
-^
-Step 3: "42" ("42" is read in)
-^
+**Input:** s = "42"
+
+**Output:** 42
+
+**Explanation:**
+
+* Underlined characters represent the input string.
+* `^` symbol marks the current reader position.
+* Quotes mark the output produced at each step.
+
+**Steps:**
+
+1. `"42"` (No characters read because there is no leading whitespace)
+    ^
+2. `"42"` (No characters read because there is neither '-' nor '+')
+    ^
+3. `"42"` ("42" is read in)
+    ^
+4. **Output:** 42
 
 
 The parsed integer is `42`.
