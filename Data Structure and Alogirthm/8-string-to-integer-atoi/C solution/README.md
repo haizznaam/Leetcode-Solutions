@@ -51,19 +51,24 @@ Since `42` is in the range `[-2^31, 2^31 - 1]`, the final result is `42`.
 
 ## Example 2:
 
-Input: s = " -42"
-Output: -42
-Explanation:
-Step 1: " -42" (leading whitespace is read and ignored)
-^
-Step 2: " -42" ('-' is read, so the result should be negative)
-^
-Step 3: " -42" ("42" is read in)
-^
+> Input: s = " -42"
+> Output: -42
 
+> ### Explanation:
 
-The parsed integer is `-42`.
-Since `-42` is in the range `[-2^31, 2^31 - 1]`, the final result is `-42`.
+> **Step 1:** " -42" (leading whitespace is read and ignored)
+> ^
+
+> **Step 2:** " -42" ('-' is read, so the result should be negative)
+> ^
+
+> **Step 3:** " -42" ("42" is read in)
+> ^
+
+> The parsed integer is `-42`. 
+> 
+> Since `-42` is in the range `[-2^31, 2^31 - 1]`, the final result is `-42`.
+
 
 ## Example 3:
 
