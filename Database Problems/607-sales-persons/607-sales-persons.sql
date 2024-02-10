@@ -1,3 +1,4 @@
+-- Write Your Solution here
 SELECT s.name
 FROM SalesPerson s
 WHERE NOT EXISTS 
